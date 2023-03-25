@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Menna Esmael</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
-<img align="center" alt="Coding" width="300" src="photo_2022-09-17_04-35-43-removebg-preview.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mennaesmael&label=Profile%20views&color=0e75b6&style=flat" alt="mennaesmael" /> </p>
-
+<h3 align="center">A passionate full-stack developer</h3>
+<img align="center" alt="Coding"  width="400" src="photo_2022-09-17_04-35-43-removebg-preview.png">
 
 - 🔭 I’m currently working on **My Graduation Project**
 
